@@ -1,4 +1,4 @@
-package com.kediumm.kedplaces.kdm.kedplaces;
+package com.kediumm.kedplaces;
 
 /**
  * Hello world!
